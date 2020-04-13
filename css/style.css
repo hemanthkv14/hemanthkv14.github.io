@@ -1,0 +1,25 @@
+li{
+    color:whitesmoke;
+}
+.nav-link:hover{
+    font-weight: bold;
+}
+#desc{
+    font-weight: 50;
+    padding-left: 1%;
+}
+#home li{
+    color: black;
+    padding-left: 2%;
+}
+h2 .btn{
+    color: forestgreen;
+}
+.card{
+    border: 0px;
+    padding-left: 1%;
+    padding-bottom: 1%;
+}
+#accordionExample, .card{
+    background-color: lightyellow;
+}
