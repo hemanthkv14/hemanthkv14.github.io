@@ -20,6 +20,9 @@ h2 .btn{
     padding-left: 1%;
     padding-bottom: 1%;
 }
-#accordionExample, .card{
-    background-color: lightyellow;
+#accordionExample{
+    background-color: lightcyan;
+}
+.card{
+    background-color: seashell;
 }
